@@ -39,3 +39,11 @@
 
         Adequate comments provided
     5. Deployed : 10 Marks
+    
+   ## Deployment
+
+To deploy this project run
+
+```bash
+  https://githubkrishnakumar.github.io/F3_Contest_1/
+```
