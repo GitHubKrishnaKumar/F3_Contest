@@ -40,10 +40,10 @@
         Adequate comments provided
     5. Deployed : 10 Marks
     
-   ## Deployment
+## Demo
 
-To deploy this project run
+Insert gif or link to demo
 
-```bash
-  https://githubkrishnakumar.github.io/F3_Contest_1/
-```
+https://github.com/GitHubKrishnaKumar/F3_Contest_1
+
+
