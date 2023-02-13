@@ -44,6 +44,6 @@
 
 Insert gif or link to demo
 
-https://github.com/GitHubKrishnaKumar/F3_Contest_1
+https://githubkrishnakumar.github.io/F3_Contest_1/
 
 
